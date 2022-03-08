@@ -1,0 +1,15 @@
+C:\Ma\Bewijzenmap\F1M3\C#\Les1\Les1\bin\Debug\net6.0\Les1.exe
+C:\Ma\Bewijzenmap\F1M3\C#\Les1\Les1\bin\Debug\net6.0\Les1.deps.json
+C:\Ma\Bewijzenmap\F1M3\C#\Les1\Les1\bin\Debug\net6.0\Les1.runtimeconfig.json
+C:\Ma\Bewijzenmap\F1M3\C#\Les1\Les1\bin\Debug\net6.0\Les1.dll
+C:\Ma\Bewijzenmap\F1M3\C#\Les1\Les1\bin\Debug\net6.0\ref\Les1.dll
+C:\Ma\Bewijzenmap\F1M3\C#\Les1\Les1\bin\Debug\net6.0\Les1.pdb
+C:\Ma\Bewijzenmap\F1M3\C#\Les1\Les1\obj\Debug\net6.0\Les1.csproj.AssemblyReference.cache
+C:\Ma\Bewijzenmap\F1M3\C#\Les1\Les1\obj\Debug\net6.0\Les1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ma\Bewijzenmap\F1M3\C#\Les1\Les1\obj\Debug\net6.0\Les1.AssemblyInfoInputs.cache
+C:\Ma\Bewijzenmap\F1M3\C#\Les1\Les1\obj\Debug\net6.0\Les1.AssemblyInfo.cs
+C:\Ma\Bewijzenmap\F1M3\C#\Les1\Les1\obj\Debug\net6.0\Les1.csproj.CoreCompileInputs.cache
+C:\Ma\Bewijzenmap\F1M3\C#\Les1\Les1\obj\Debug\net6.0\Les1.dll
+C:\Ma\Bewijzenmap\F1M3\C#\Les1\Les1\obj\Debug\net6.0\ref\Les1.dll
+C:\Ma\Bewijzenmap\F1M3\C#\Les1\Les1\obj\Debug\net6.0\Les1.pdb
+C:\Ma\Bewijzenmap\F1M3\C#\Les1\Les1\obj\Debug\net6.0\Les1.genruntimeconfig.cache
