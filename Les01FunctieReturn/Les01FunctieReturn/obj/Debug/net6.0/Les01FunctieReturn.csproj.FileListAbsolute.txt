@@ -1,0 +1,15 @@
+C:\Ma\Bewijzenmap\F1M3\C#\Les01FunctieReturn\Les01FunctieReturn\bin\Debug\net6.0\Les01FunctieReturn.exe
+C:\Ma\Bewijzenmap\F1M3\C#\Les01FunctieReturn\Les01FunctieReturn\bin\Debug\net6.0\Les01FunctieReturn.deps.json
+C:\Ma\Bewijzenmap\F1M3\C#\Les01FunctieReturn\Les01FunctieReturn\bin\Debug\net6.0\Les01FunctieReturn.runtimeconfig.json
+C:\Ma\Bewijzenmap\F1M3\C#\Les01FunctieReturn\Les01FunctieReturn\bin\Debug\net6.0\Les01FunctieReturn.dll
+C:\Ma\Bewijzenmap\F1M3\C#\Les01FunctieReturn\Les01FunctieReturn\bin\Debug\net6.0\ref\Les01FunctieReturn.dll
+C:\Ma\Bewijzenmap\F1M3\C#\Les01FunctieReturn\Les01FunctieReturn\bin\Debug\net6.0\Les01FunctieReturn.pdb
+C:\Ma\Bewijzenmap\F1M3\C#\Les01FunctieReturn\Les01FunctieReturn\obj\Debug\net6.0\Les01FunctieReturn.csproj.AssemblyReference.cache
+C:\Ma\Bewijzenmap\F1M3\C#\Les01FunctieReturn\Les01FunctieReturn\obj\Debug\net6.0\Les01FunctieReturn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ma\Bewijzenmap\F1M3\C#\Les01FunctieReturn\Les01FunctieReturn\obj\Debug\net6.0\Les01FunctieReturn.AssemblyInfoInputs.cache
+C:\Ma\Bewijzenmap\F1M3\C#\Les01FunctieReturn\Les01FunctieReturn\obj\Debug\net6.0\Les01FunctieReturn.AssemblyInfo.cs
+C:\Ma\Bewijzenmap\F1M3\C#\Les01FunctieReturn\Les01FunctieReturn\obj\Debug\net6.0\Les01FunctieReturn.csproj.CoreCompileInputs.cache
+C:\Ma\Bewijzenmap\F1M3\C#\Les01FunctieReturn\Les01FunctieReturn\obj\Debug\net6.0\Les01FunctieReturn.dll
+C:\Ma\Bewijzenmap\F1M3\C#\Les01FunctieReturn\Les01FunctieReturn\obj\Debug\net6.0\ref\Les01FunctieReturn.dll
+C:\Ma\Bewijzenmap\F1M3\C#\Les01FunctieReturn\Les01FunctieReturn\obj\Debug\net6.0\Les01FunctieReturn.pdb
+C:\Ma\Bewijzenmap\F1M3\C#\Les01FunctieReturn\Les01FunctieReturn\obj\Debug\net6.0\Les01FunctieReturn.genruntimeconfig.cache
